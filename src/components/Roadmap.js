@@ -96,12 +96,12 @@ const Roadmap = () => {
                 receive the passes before the concert after sellout). <br />
               </p>
             </div>
-            <div className='phases__container bg-secondary py-6 px-8 rounded-md mt-10'>
-              <h1
-                className='text-btn font-bold font-body text-4xl 2xl:text-5xl uppercase leading-10 mb-2'
-                data-aos='fade-right'
-                data-aos-duration='2700'
-              >
+            <div
+              className='phases__container bg-secondary py-6 px-8 rounded-md mt-10 '
+              data-aos='fade-right'
+              data-aos-duration='2700'
+            >
+              <h1 className='text-btn font-bold font-body text-4xl 2xl:text-5xl uppercase leading-10 mb-2'>
                 100%
               </h1>
               <p className='text-white text-base 2xl:text-2xl'>
